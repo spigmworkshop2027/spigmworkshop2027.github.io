@@ -68,7 +68,7 @@ nav_order: 3
     <td>Panel Session</td>
     <td>
     <b>What Should Change, and What Should Stay?</b><br>
-    Mark Goldstein <i>(Moderator, Flatiron Institute)</i><br>
+    Mark Goldstein <i>(Flatiron Institute)</i><br>
     Ruqi Zhang <i>(Purdue University)</i><br>
     Sam Power <i>(University of Bristol)</i><br>
     Bowen Jing <i>(Divergence Labs)</i><br>
